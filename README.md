@@ -13,8 +13,7 @@
 - **Tools:** Git, GitHub, VS Code  
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link)
+[![LinkedIn](https://www.linkedin.com/in/amna-saleem-it/)
 
 ## 📧 Contact Me
 - Email: [saleemamna431@gmail.com]
