@@ -1,7 +1,5 @@
 # 🌟 Hi there! I'm Amna Saleem 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-
 ## 🚀 About Me
 - 💻 Frontend & Backend Developer  
 - 🎓 Pursuing a diploma in Software Engineering  
